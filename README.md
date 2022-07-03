@@ -1,9 +1,12 @@
-## hooks-vue-starter
+## 使用的技术 
+包括 Midway Hooks + ts + vue3 + vue-router + pinia + vant
 
-Use this template:
+## 适用于快速全栈手机尺寸开发
+
+使用方法:
 
 ```bash
-npx degit https://github.com/midwayjs/hooks/examples/vue ./hooks-app
+git clone  https://github.com/yuwade/hooks-vue3-pinia-template.git
 ```
 
 Use `npm install` to install the dependencies
